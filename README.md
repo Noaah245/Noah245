@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm XCOR3</h1>
+<h1 align="center">Hi 👋, I'm Noah245</h1>
 
 </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=XCOR3&label=Profile%20views&color=0e75b6&style=flat" alt="XCOR3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=XCOR3&label=Profile%20views&color=0e75b6&style=flat" alt="Noah245" /> </p>
 </br>
 
 
@@ -17,4 +17,4 @@
 </center>
 <br>
 
-⭐️ From [XCOR3](https://github.com/XCOR3)
+⭐️ From [Noah245](https://github.com/XCOR3)
